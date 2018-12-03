@@ -1,3 +1,3 @@
 # wickedsluggy
-Py Invent Mgr 
+Py Invent Mgr<br> 
 This is Py Inventory Manager.
